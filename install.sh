@@ -12,7 +12,6 @@ pkg install nmap
 pkg install yarn
 pkh install python
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
-git clone https://github.com/Kangsad01/Stikerinbotnew
 cd Stikerinbotnew
 yarn
 npm i
