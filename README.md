@@ -42,6 +42,7 @@ node .
 
 ## UNTUK PENGGUNA TERMUX
 ```bash
+termux-setup-storage
 git clone https://github.com/Kangsad01/Stikerinbotnew --branch termux
 bash install.sh
 npm install -g npm@6.14.14
