@@ -43,12 +43,10 @@ node .
 ## UNTUK PENGGUNA TERMUX
 ```bash
 git clone https://github.com/Kangsad01/Stikerinbotnew --branch termux
-cd Stikerinbotnew
+bash install.sh
 npm install -g npm@6.14.14
 npm i @adiwajshing/baileys@latest
-npm i
-npm update
-node .
+npm start
 ```
 
 ---------
